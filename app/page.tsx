@@ -1,5 +1,6 @@
+
 const Homepage = () => {
-  return ( <>lp-ecommerce!</> );
+  return ( <>Latest Products</> );
 }
  
 export default Homepage;
