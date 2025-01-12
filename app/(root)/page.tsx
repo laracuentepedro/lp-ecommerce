@@ -1,5 +1,4 @@
-
-const Homepage = () => {
+const Homepage = async() => {
   return ( <>Latest Products</> );
 }
  
