@@ -1,10 +1,3 @@
-```markdown
-# README.md
-
-Below is a recommended README document in Markdown format (.md) for your LP Ecommerce project:
-
----
-
 # LP Ecommerce
 
 A modern e-commerce platform built with Next.js App Router, TypeScript, Prisma, and Tailwind CSS. This project demonstrates a simple storefront that allows users to view products, and serves as a template to eventually introduce more advanced e-commerce features.
@@ -199,5 +192,3 @@ The plan includes expanding the functionality to a complete e-commerce platform:
 This project is available under an open-source license. Feel free to adapt, reuse, or distribute under the terms specified in the [LICENSE](LICENSE) file (if present).
 
 > © 2025 LP Ecommerce - All Rights Reserved
-
-```
