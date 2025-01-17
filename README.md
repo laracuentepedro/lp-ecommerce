@@ -62,7 +62,7 @@ A modern e-commerce platform built with Next.js App Router, TypeScript, Prisma, 
 
 ## Project Structure
 
-Below is a condensed view of your project’s directories and key files:
+Below is a condensed view of the directories and key files:
 
 ```
 lp-ecommerce
