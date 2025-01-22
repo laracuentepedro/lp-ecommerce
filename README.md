@@ -2,6 +2,8 @@
 
 A modern e-commerce platform built with Next.js App Router, TypeScript, Prisma, and Tailwind CSS. This project demonstrates a simple storefront that allows users to view products, and serves as a template to eventually introduce more advanced e-commerce features.
 
+A live version of this app is available on https://lp-ecommerce.pedrolaracuente.com/
+
 ---
 
 ## Table of Contents
