@@ -1,4 +1,5 @@
 # LP Ecommerce
+Note: The app is under current and active development.
 
 A modern e-commerce platform built with Next.js App Router, TypeScript, Prisma, and Tailwind CSS. This project demonstrates a simple storefront that allows users to view products, and serves as a template to eventually introduce more advanced e-commerce features.
 
