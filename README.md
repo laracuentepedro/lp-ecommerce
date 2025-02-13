@@ -189,9 +189,3 @@ The plan includes expanding the functionality to a complete e-commerce platform:
    - Display star ratings and user comments.
 
 ---
-
-## License
-
-This project is available under an open-source license. Feel free to adapt, reuse, or distribute under the terms specified in the [LICENSE](LICENSE) file (if present).
-
-> © 2025 LP Ecommerce - All Rights Reserved
